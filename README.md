@@ -1,7 +1,4 @@
----
-tags: kids, culture
-type: keeping-it-real
----
+
 
 ### Beating Stereotypes
 <img src="https://s3.amazonaws.com/after-school-assets/programmer.jpg" width="300px" align="right" hspace="10"> We all know what stereotypes are, and whether we like it or not, we've been stereotyped at some point in our lives.
